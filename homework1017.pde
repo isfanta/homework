@@ -1,3 +1,11 @@
+//hello,i'm sorry for that github don't allow me to upload a folder ,
+//so please download the picture attached(named "text"),
+//and add it to a new folder under the "homework1017"named "data",
+//then you can run this code successfully.
+//sorry once again for the inconvenience,
+//and if you still have any trouble ,please contact me by wechat"wyw13738085572".
+
+
 PImage hw;
 int x,y,c,all,a,i,j;
 float r,yy,s,xx;
